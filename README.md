@@ -1,1 +1,2 @@
 # Eulerian_max_min
+This **Graph Matching and Eulerian Path Finder** is a Python Tkinter-based application that identifies **Maximal Matching**, **Maximum Matching**, **Perfect Matching**, and **Eulerian Paths** in undirected graphs. Users can input an adjacency matrix, and the system processes the graph to display the results along with a visual representation of the Eulerian path (if available). The intuitive interface includes clear instructions, ensuring ease of use for analyzing graph properties efficiently.
